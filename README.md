@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 <br>
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=in-genieur&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
