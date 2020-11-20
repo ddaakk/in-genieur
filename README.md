@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<br><br>
+<br>
 
-<h4 align="center">Tech Stack</h3>
+<h4 align="center">Tech Stack</h4>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<br><br>
-<h4 align="center"> Contact </h3>
+<br>
+<h4 align="center">Contact</h4>
 <p align="center">
   <a href="https://velog.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>&nbsp
   <a href="https://www.instagram.com/rnesw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rnesw/"/></a>&nbsp
