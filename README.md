@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 <br>
 
 <p align="center">
@@ -32,6 +25,16 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=in-genieur&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 </p>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+</p>
+
+<br><br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -53,14 +56,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
-
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-
-<br><br>
 
 <br><br>
 <h3 align="center"> ⚡ Me ⚡ </h3>
