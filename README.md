@@ -1,5 +1,5 @@
 <!-- ### Handshake -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=blue&height=300&section=header&text=In-genieur&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=In-genieur&fontSize=90)
 
 <!-- *** -->
 
