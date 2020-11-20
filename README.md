@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=orange&height=300&section=header&text=In-genieur&fontSize=90)
 </p>
 
+<!-- *** -->
+
 <!--
 **in-genieur/in-genieur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,9 +24,9 @@ Here are some ideas to get you started:
 [![in-genieur's github stats](https://github-readme-stats.vercel.app/api?username=in-genieur&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-<p align="center">
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 <br><br>
-<h3 align="center"> 🍒 Me 🍒 </h3>
+<h3 align="center"> ⚡ Me ⚡ </h3>
 <p align="center">
   <a href="https://velog.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>&nbsp
   <a href="https://www.instagram.com/rnesw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rnesw/"/></a>&nbsp
