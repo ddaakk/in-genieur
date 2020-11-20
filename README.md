@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 <h4 align="center">Contact</h4>
 <p align="center">
-  <a href="https://velog.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>&nbsp
+  <a href="https://velog.io/@in-genieur"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@in-genieur"/></a>&nbsp
   <a href="https://www.instagram.com/rnesw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rnesw/"/></a>&nbsp
   <a href="mailto:20160658@gm.hannam.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20160658@gm.hannam.ac.kr"/></a>
 </p>
