@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-<br>
+<br><br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
+<br><br>
 <h3 align="center"> ⚡ Me ⚡ </h3>
 <p align="center">
   <a href="https://velog.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>&nbsp
