@@ -1,7 +1,8 @@
 <!-- ### Handshake -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=In-genieur&fontSize=90)
-
-***
+<p align="center">
+![header](https://capsule-render.vercel.app/api?type=slice&color=orange&height=300&section=header&text=In-genieur&fontSize=90)
+</p>
+<!---***--->
 
 <!--
 **in-genieur/in-genieur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
 [![in-genieur's github stats](https://github-readme-stats.vercel.app/api?username=in-genieur&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
