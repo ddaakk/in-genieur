@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=in-genieur&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=in-genieur&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-genieur&layout=compact&langs_count=10&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </a>
 </p>
 
 <br>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?   style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>&nbsp 
@@ -58,11 +58,12 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
 <h4 align="center"> Contact</h4>
 <p align="center">
   <a href="https://velog.io/@in-genieur"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=plastic&logo=Vimeo&logoColor=white&link=https://velog.io/@in-genieur"/></a>&nbsp
   <a href="https://www.instagram.com/rnesw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/rnesw/"/></a>&nbsp
-  <a href="mailto:20160658@gm.hannam.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=20160658@gm.hannam.ac.kr"/></a>
+  <a href="mailto:20160658@gm.hannam.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=20160658@gm.hannam.ac.kr"/>   </a>
 </p>
 
 
